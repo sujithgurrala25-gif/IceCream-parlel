@@ -1,0 +1,210 @@
+[
+  {
+    "id": 1,
+    "name": "Pav Bhaji",
+    "price": 80,
+    "category": "Pav Bhaji",
+    "tags": ["popular", "buttery"],
+    "description": "Mumbai-style mashed vegetable bhaji served with soft pav."
+  },
+  {
+    "id": 2,
+    "name": "Butter Pav Bhaji",
+    "price": 80,
+    "category": "Pav Bhaji",
+    "tags": ["buttery"],
+    "description": "Classic pav bhaji finished with extra butter."
+  },
+  {
+    "id": 3,
+    "name": "Masala Pav Bhaji",
+    "price": 90,
+    "category": "Pav Bhaji",
+    "tags": ["spicy"],
+    "description": "Spiced pav bhaji with a deeper masala kick."
+  },
+  {
+    "id": 4,
+    "name": "Cheese Masala Pav Bhaji",
+    "price": 90,
+    "category": "Pav Bhaji",
+    "tags": ["cheese", "spicy"],
+    "description": "Masala pav bhaji topped with grated cheese."
+  },
+  {
+    "id": 5,
+    "name": "Cheese Pav Bhaji",
+    "price": 90,
+    "category": "Pav Bhaji",
+    "tags": ["cheese"],
+    "description": "Rich pav bhaji with a cheesy finish."
+  },
+  {
+    "id": 6,
+    "name": "Vada Pav (2 Pcs)",
+    "price": 60,
+    "category": "Pav Snacks",
+    "tags": ["quick bite"],
+    "description": "Two spicy potato vadas tucked inside pav."
+  },
+  {
+    "id": 7,
+    "name": "Cheese Vada Pav (2 Pcs)",
+    "price": 80,
+    "category": "Pav Snacks",
+    "tags": ["cheese", "quick bite"],
+    "description": "Two vada pavs with a layer of cheese."
+  },
+  {
+    "id": 8,
+    "name": "Samosa Pav",
+    "price": 60,
+    "category": "Pav Snacks",
+    "tags": ["quick bite"],
+    "description": "Crisp samosa served in pav with chutney."
+  },
+  {
+    "id": 9,
+    "name": "Samosa Ragda",
+    "price": 50,
+    "category": "Ragda",
+    "tags": ["chaat"],
+    "description": "Crushed samosa topped with warm ragda and chutneys."
+  },
+  {
+    "id": 10,
+    "name": "Cheese Samosa Pav",
+    "price": 80,
+    "category": "Pav Snacks",
+    "tags": ["cheese"],
+    "description": "Samosa pav with creamy cheese."
+  },
+  {
+    "id": 11,
+    "name": "Ragda Pav",
+    "price": 80,
+    "category": "Ragda",
+    "tags": ["filling"],
+    "description": "Soft pav served with flavorful white pea ragda."
+  },
+  {
+    "id": 12,
+    "name": "Cheese Ragda Pav",
+    "price": 90,
+    "category": "Ragda",
+    "tags": ["cheese", "filling"],
+    "description": "Ragda pav with a cheesy topping."
+  },
+  {
+    "id": 13,
+    "name": "Cutlet Ragda",
+    "price": 50,
+    "category": "Ragda",
+    "tags": ["chaat"],
+    "description": "Crisp cutlet covered with warm ragda."
+  },
+  {
+    "id": 14,
+    "name": "Papdi Ragda",
+    "price": 50,
+    "category": "Ragda",
+    "tags": ["crunchy"],
+    "description": "Papdi layered with ragda, chutneys, and sev."
+  },
+  {
+    "id": 15,
+    "name": "Kachori Ragda",
+    "price": 50,
+    "category": "Ragda",
+    "tags": ["crunchy"],
+    "description": "Kachori served chaat-style with ragda."
+  },
+  {
+    "id": 16,
+    "name": "Masala Puri",
+    "price": 50,
+    "category": "Chaat",
+    "tags": ["spicy"],
+    "description": "Puri topped with masala, chutneys, onion, and sev."
+  },
+  {
+    "id": 17,
+    "name": "Bhel Puri",
+    "price": 45,
+    "category": "Chaat",
+    "tags": ["crunchy", "light"],
+    "description": "Puffed rice tossed with chutneys, veggies, and sev."
+  },
+  {
+    "id": 18,
+    "name": "Dhai Samosa",
+    "price": 50,
+    "category": "Dahi Chaat",
+    "tags": ["cooling"],
+    "description": "Samosa chaat finished with chilled curd."
+  },
+  {
+    "id": 19,
+    "name": "Dhai Cutlet",
+    "price": 50,
+    "category": "Dahi Chaat",
+    "tags": ["cooling"],
+    "description": "Cutlet chaat topped with curd and chutneys."
+  },
+  {
+    "id": 20,
+    "name": "Dhai Kachori",
+    "price": 50,
+    "category": "Dahi Chaat",
+    "tags": ["cooling", "crunchy"],
+    "description": "Kachori with curd, chutneys, spices, and sev."
+  },
+  {
+    "id": 21,
+    "name": "Dhai Puri",
+    "price": 50,
+    "category": "Dahi Chaat",
+    "tags": ["cooling"],
+    "description": "Puris filled with curd, chutneys, and chaat masala."
+  },
+  {
+    "id": 23,
+    "name": "Extra Pav (2)",
+    "price": 30,
+    "category": "Extras",
+    "tags": ["add-on"],
+    "description": "Two extra pav for sharing."
+  },
+  {
+    "id": 24,
+    "name": "Sev Puri",
+    "price": 50,
+    "category": "Chaat",
+    "tags": ["crunchy"],
+    "description": "Crisp puris topped with chutneys, potatoes, and sev."
+  },
+  {
+    "id": 25,
+    "name": "Aalu Tikka",
+    "price": 50,
+    "category": "Chaat",
+    "tags": ["crispy"],
+    "description": "Potato tikka served hot with chutneys."
+  },
+  {
+    "id": 26,
+    "name": "Pani Puri (6)",
+    "price": 20,
+    "category": "Chaat",
+    "tags": ["popular", "light"],
+    "description": "Six crispy puris with tangy pani and filling."
+  },
+  {
+    "id": 27,
+    "name": "Parcel",
+    "price": 5,
+    "category": "Extras",
+    "tags": ["takeaway"],
+    "description": "Takeaway packing charge."
+  }
+]
