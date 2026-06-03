@@ -6,9 +6,9 @@
   "scripts": {
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "server": "node server/index.js",
-    "client": "vite --host 0.0.0.0",
-    "build": "vite build --outDir public",
-    "preview": "vite preview --host 0.0.0.0"
+    "client": "vite client --host 0.0.0.0",
+    "build": "vite build client --outDir ../public",
+    "preview": "vite preview client --host 0.0.0.0"
   },
   "dependencies": {
     "express": "latest",
